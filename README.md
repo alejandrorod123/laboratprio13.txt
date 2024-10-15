@@ -16,7 +16,6 @@ Clonación de la VM:
 3. Seleccionar "Clonación Completa" para una copia completa o "Clonación Enlazada" si se desea ahorrar espacio en disco (pero compartiendo discos virtuales).
 
 ![image](![imagen1](https://github.com/user-attachments/assets/fee2d2d4-a745-4fe9-a9cb-7dbd5e13a14b)
-)
 
 Verificación:
 1. Iniciar ambas máquinas (la original y la clonada) para verificar que ambas funcionan correctamente de manera independiente.
