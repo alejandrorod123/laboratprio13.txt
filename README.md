@@ -24,8 +24,7 @@ Informe esperado:
 - Captura de pantalla de ambas máquinas corriendo de forma simultánea.
 - Comandos que verifiquen que tienen configuraciones de red y hostname diferentes.
 
-![image](![imagen2](https://github.com/user-attachments/assets/70239f1c-c4b1-442e-bc10-719b0e20ca3a
-)
+![image](![imagen2](https://github.com/user-attachments/assets/70239f1c-c4b1-442e-bc10-719b0e20ca3a)
 
  Uso de Guest Additions
 
@@ -51,9 +50,7 @@ Informe esperado:
 - Capturas de pantalla del cambio de tamaño dinámico de la ventana.
 - Una demostración de arrastrar un archivo entre el host y la VM.
 
-![image](![imagen3](https://github.com/user-attachments/assets/f806ee17-1bfe-48ff-80d5-edfa3e87b5fc
-)
-![image](![imagen4](https://github.com/user-attachments/assets/79c32bd4-3199-41e2-968b-112cf4bab316
-)
+![image](![imagen3](https://github.com/user-attachments/assets/f806ee17-1bfe-48ff-80d5-edfa3e87b5fc)
+![image](![imagen4](https://github.com/user-attachments/assets/79c32bd4-3199-41e2-968b-112cf4bab316)
 
 
